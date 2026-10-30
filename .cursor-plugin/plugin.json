@@ -1,0 +1,22 @@
+{
+  "name": "agentry",
+  "description": "Find, verify, install and run QuickAgents (signed, scanned agent packages with a declared capability contract) and build your own, from your agent host.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Agentry"
+  },
+  "homepage": "https://docs.secureagentry.net/agentry/mcp/",
+  "repository": "https://github.com/blaktron/agentry-plugin-cursor",
+  "license": "MIT",
+  "keywords": [
+    "agentry",
+    "quickagents",
+    "agents",
+    "mcp",
+    "skills",
+    "sandbox",
+    "supply-chain",
+    "security"
+  ],
+  "logo": "assets/logo.svg"
+}
