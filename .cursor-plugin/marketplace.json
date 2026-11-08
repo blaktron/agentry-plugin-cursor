@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "The Agentry plugin for Cursor",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "plugins": [
     {
       "name": "agentry",
       "source": "./",
       "description": "Find, verify, install and run QuickAgents (signed, scanned agent packages with a declared capability contract) and build your own, from your agent host.",
-      "version": "0.7.0",
+      "version": "0.7.1",
       "category": "developer-tools"
     }
   ]
